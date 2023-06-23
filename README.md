@@ -2,6 +2,8 @@
 
 Welcome to the Your Age Calculator Website! This repository contains a simple web application that calculates your age based on your birthdate. It provides an easy way to determine your current age and explore interesting facts related to your birthdate.
 
+![mobile (1)](https://github.com/AKABharat/Your-Age-Calculator/assets/107737002/0d675608-4629-4d12-8d92-193ec4be2cc6)
+
 ## Introduction
 
 The Your Age Calculator is a user-friendly web application that allows you to find out your current age in years, months, and days. It takes your birthdate as input and calculates the precise age based on the current date. Additionally, it provides fun facts about your birthdate, such as your zodiac sign and birthstone.
